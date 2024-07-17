@@ -153,21 +153,28 @@ skill:
   description: |
 
   groups:
-    - name: Group A Skills
+    - name: Core AWS
       item:
-        - Skill A
-        - Skill B
-        - Skill C
-        - Skill D
-    - name: Group B Skills
+        - EC2
+        - Lambda
+        - Cloudwatch
+        - Cloudtrail
+        - Cloudformation
+        - S3
+        - VPC
+    - name: Devops
       item:
-        - Skill E
-        - Skill F
-        - Skill G
-    - name: Group C Skills
+        - Terraform
+        - Ansible
+        - Docker
+        - Kubernetes
+    - name: Scripting and Programming
       item:
-        - Skill H
-        - Skill I
+        - Python
+        - Bash
+    - name: Continuous Integration/Continuous Deployment (CI/CD)
+      item:
+        - Jenkins
 
 education:
   show: true
