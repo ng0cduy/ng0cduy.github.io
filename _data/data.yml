@@ -93,7 +93,7 @@ experience:
 
   items:
     - company: NAB Innovation Centre Vietnam
-      link: '#'
+      link: 'https://www.linkedin.com/company/nabvietnam/'
       tags: Full-time
       date: MAY 2022 – PRESENT
       role: DevOps Engineer
@@ -106,7 +106,7 @@ experience:
         + Work with AWS to provide CI, CD pipeline automation
 
     - company: ROBERT BOSCH ENGINEERING & BUSINESS SOLUTIONS | Ho Chi Minh city
-      link:
+      link: 'https://www.linkedin.com/company/bosch-global-software-technologies-vietnam/'
       tags: Full-time
       date: JULY 2021 – MAY 2022
       role: C++ DEVELOPER
@@ -172,7 +172,7 @@ skill:
       item:
         - Python
         - Bash
-    - name: Continuous Integration/Continuous Deployment (CI/CD)
+    - name: CI/CD Tools
       item:
         - Jenkins
 
@@ -184,7 +184,7 @@ education:
 
   items:
     - institution: UNIVERSITY OF TECHNOLOGY SYDNEY (UTS)
-      link: '#'
+      link: 'https://www.linkedin.com/school/university-of-technology-sydney/'
       date: MAR 2019 – JUN 2021
       major: MECHATRONICS ENGINEERING (HONOURS)
       degree: BACHELOR
@@ -195,7 +195,7 @@ education:
         + Dean List 2022
 
     - institution: HO CHI MINH UNIVERSITY OF TECHNOLOGY (HCMUT)
-      link: '#'
+      link: 'https://www.linkedin.com/school/hcmut-bachkhoa/'
       date: SEP 2016 – JUN 2018
       major: MECHATRONICS ENGINEERING
       degree: Bachelor
@@ -207,7 +207,7 @@ education:
         + Granted Scholarship for outstanding performance students – Office of International Study Programs, 2016
 
     - institution: LE HONG PHONG HIGH SCHOOL FOR THE GIFTED
-      link: '#'
+      link: 'https://www.linkedin.com/school/lhpvietnam/'
       date: SEP 2013 – JUN 2016
       major: PHYSICS
       degree: High school degree
